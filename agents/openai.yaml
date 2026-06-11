@@ -1,0 +1,8 @@
+interface:
+  display_name: "OceanPayment UI"
+  short_description: "Use opopui components in Vue 3 projects"
+  brand_color: "#28A745"
+  default_prompt: "Use $oceanpayment-ui to build a Vue 3 page with OceanPayment UI components."
+
+policy:
+  allow_implicit_invocation: true
